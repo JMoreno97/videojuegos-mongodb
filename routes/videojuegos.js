@@ -1,8 +1,22 @@
+/**
+ * @fileoverview Rutas para la gestión de videojuegos y entidades relacionadas
+ * @requires express
+ * @requires mongodb
+ */
+
 const express = require("express");
 const router = express.Router();
 const { ObjectId } = require("mongodb");
 
-// Obtener todos los videojuegos con filtros
+/**
+ * Obtiene todos los videojuegos con filtros opcionales
+ * @route GET /api/videojuegos
+ * @param {string} [query.genero] - Filtro por género
+ * @param {string} [query.plataforma] - Filtro por plataforma
+ * @param {string} [query.titulo] - Filtro por título (búsqueda parcial)
+ * @returns {Object[]} Lista de videojuegos con sus relaciones pobladas
+ * @throws {Error} Error del servidor
+ */
 router.get("/videojuegos", async (req, res) => {
   try {
     const { genero, plataforma, titulo } = req.query;
@@ -93,7 +107,12 @@ router.get("/videojuegos", async (req, res) => {
   }
 });
 
-// Obtener todos los géneros
+/**
+ * Obtiene todos los géneros disponibles
+ * @route GET /api/generos
+ * @returns {Object[]} Lista de géneros
+ * @throws {Error} Error del servidor
+ */
 router.get("/generos", async (req, res) => {
   try {
     const db = req.app.locals.db;
@@ -106,7 +125,12 @@ router.get("/generos", async (req, res) => {
   }
 });
 
-// Obtener todas las plataformas
+/**
+ * Obtiene todas las plataformas disponibles
+ * @route GET /api/plataformas
+ * @returns {Object[]} Lista de plataformas
+ * @throws {Error} Error del servidor
+ */
 router.get("/plataformas", async (req, res) => {
   try {
     const db = req.app.locals.db;
@@ -119,7 +143,12 @@ router.get("/plataformas", async (req, res) => {
   }
 });
 
-// Obtener todos los desarrolladores
+/**
+ * Obtiene todos los desarrolladores disponibles
+ * @route GET /api/desarrolladores
+ * @returns {Object[]} Lista de desarrolladores
+ * @throws {Error} Error del servidor
+ */
 router.get("/desarrolladores", async (req, res) => {
   try {
     console.log("Recibida petición GET /api/desarrolladores");

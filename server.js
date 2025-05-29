@@ -1,3 +1,10 @@
+/**
+ * @fileoverview Fichero principal del servidor para la aplicacion de Videojuegos-MongoDB
+ * @requires express
+ * @requires path
+ * @requires ./config/database
+ */
+
 const express = require("express");
 const path = require("path");
 const { connectToMongo } = require("./config/database");
@@ -9,7 +16,12 @@ app.use(express.static(path.join(__dirname, "public")));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// Conectar a MongoDB y hacer la base de datos disponible globalmente
+/**
+ * Inicia el servidor y configura las rutas de la aplicación
+ * @async
+ * @function startServer
+ * @throws {Error} Si hay un error al conectar con la base de datos
+ */
 async function startServer() {
   try {
     const db = await connectToMongo();

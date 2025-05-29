@@ -1,3 +1,9 @@
+/**
+ * @fileoverview Configuración de la conexión a MongoDB
+ * @requires mongodb
+ * @requires dotenv
+ */
+
 const { MongoClient } = require("mongodb");
 require("dotenv").config();
 
@@ -10,6 +16,13 @@ if (!MONGODB_URI) {
 
 const client = new MongoClient(MONGODB_URI);
 
+/**
+ * Establece la conexión con la base de datos MongoDB
+ * @async
+ * @function connectToMongo
+ * @returns {Promise<Db>} Instancia de la base de datos MongoDB
+ * @throws {Error} Si hay un error al conectar con MongoDB
+ */
 async function connectToMongo() {
   try {
     await client.connect();

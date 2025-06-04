@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6835a920de7b4b9d5082b543"
+  },
+  "nombre": "PC",
+  "fabricante": "Variado",
+  "tipo": "Ordenador personal"
+},
+{
+  "_id": {
+    "$oid": "6835a920de7b4b9d5082b544"
+  },
+  "nombre": "PlayStation 5",
+  "fabricante": "Sony",
+  "tipo": "Consola de sobremesa"
+},
+{
+  "_id": {
+    "$oid": "6835a920de7b4b9d5082b545"
+  },
+  "nombre": "Xbox Series X",
+  "fabricante": "Microsoft",
+  "tipo": "Consola de sobremesa"
+},
+{
+  "_id": {
+    "$oid": "6835a920de7b4b9d5082b546"
+  },
+  "nombre": "Nintendo Switch",
+  "fabricante": "Nintendo",
+  "tipo": "Consola híbrida"
+},
+{
+  "_id": {
+    "$oid": "6835a920de7b4b9d5082b547"
+  },
+  "nombre": "PlayStation 4",
+  "fabricante": "Sony",
+  "tipo": "Consola de sobremesa"
+},
+{
+  "_id": {
+    "$oid": "6835a920de7b4b9d5082b548"
+  },
+  "nombre": "Xbox One",
+  "fabricante": "Microsoft",
+  "tipo": "Consola de sobremesa"
+},
+{
+  "_id": {
+    "$oid": "6835a920de7b4b9d5082b549"
+  },
+  "nombre": "Steam Deck",
+  "fabricante": "Valve",
+  "tipo": "Consola portátil"
+},
+{
+  "_id": {
+    "$oid": "6835a920de7b4b9d5082b54a"
+  },
+  "nombre": "Android",
+  "fabricante": "Google",
+  "tipo": "Móvil"
+},
+{
+  "_id": {
+    "$oid": "6835a920de7b4b9d5082b54b"
+  },
+  "nombre": "iOS",
+  "fabricante": "Apple",
+  "tipo": "Móvil"
+}]

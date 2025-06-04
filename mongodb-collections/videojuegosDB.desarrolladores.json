@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b54e"
+  },
+  "nombre": "Nintendo EPD",
+  "pais": "Japón",
+  "fundacion": 2015,
+  "sitio_web": "https://www.nintendo.com"
+},
+{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b54f"
+  },
+  "nombre": "CD Projekt Red",
+  "pais": "Polonia",
+  "fundacion": 2002,
+  "sitio_web": "https://en.cdprojektred.com"
+},
+{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b550"
+  },
+  "nombre": "Rockstar Games",
+  "pais": "Estados Unidos",
+  "fundacion": 1998,
+  "sitio_web": "https://www.rockstargames.com"
+},
+{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b551"
+  },
+  "nombre": "FromSoftware",
+  "pais": "Japón",
+  "fundacion": 1986,
+  "sitio_web": "https://www.fromsoftware.jp"
+},
+{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b552"
+  },
+  "nombre": "Ubisoft Montreal",
+  "pais": "Canadá",
+  "fundacion": 1997,
+  "sitio_web": "https://montreal.ubisoft.com"
+},
+{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b553"
+  },
+  "nombre": "Valve Corporation",
+  "pais": "Estados Unidos",
+  "fundacion": 1996,
+  "sitio_web": "https://www.valvesoftware.com"
+},
+{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b554"
+  },
+  "nombre": "Santa Monica Studio",
+  "pais": "Estados Unidos",
+  "fundacion": 2001,
+  "sitio_web": "https://sms.playstation.com"
+},
+{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b555"
+  },
+  "nombre": "Insomniac Games",
+  "pais": "Estados Unidos",
+  "fundacion": 1994,
+  "sitio_web": "https://www.insomniacgames.com"
+},
+{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b556"
+  },
+  "nombre": "Bethesda Game Studios",
+  "pais": "Estados Unidos",
+  "fundacion": 2001,
+  "sitio_web": "https://bethesdagamestudios.com"
+},
+{
+  "_id": {
+    "$oid": "6835a92bde7b4b9d5082b557"
+  },
+  "nombre": "343 Industries",
+  "pais": "Estados Unidos",
+  "fundacion": 2007,
+  "sitio_web": "https://www.halowaypoint.com"
+}]

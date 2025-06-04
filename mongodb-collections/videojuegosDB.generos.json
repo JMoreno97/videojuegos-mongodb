@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b537"
+  },
+  "nombre": "Aventura",
+  "descripcion": "Exploración, resolución de acertijos y narrativa profunda."
+},
+{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b538"
+  },
+  "nombre": "Acción",
+  "descripcion": "Enfrentamientos rápidos, reflejos y habilidad."
+},
+{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b539"
+  },
+  "nombre": "Rol (RPG)",
+  "descripcion": "Desarrollo de personajes, historia ramificada y combates por turnos o en tiempo real."
+},
+{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b53a"
+  },
+  "nombre": "Shooter",
+  "descripcion": "Enfocados en el uso de armas, en primera o tercera persona."
+},
+{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b53b"
+  },
+  "nombre": "Deportes",
+  "descripcion": "Simulación de deportes reales o ficticios."
+},
+{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b53c"
+  },
+  "nombre": "Carreras",
+  "descripcion": "Competencias de velocidad en diferentes vehículos."
+},
+{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b53d"
+  },
+  "nombre": "Estrategia",
+  "descripcion": "Planificación y toma de decisiones, a menudo en tiempo real o por turnos."
+},
+{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b53e"
+  },
+  "nombre": "Simulación",
+  "descripcion": "Recreación realista de actividades o sistemas."
+},
+{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b53f"
+  },
+  "nombre": "Terror",
+  "descripcion": "Ambientes oscuros, tensión psicológica y supervivencia."
+},
+{
+  "_id": {
+    "$oid": "6835a916de7b4b9d5082b540"
+  },
+  "nombre": "Plataformas",
+  "descripcion": "Salto y navegación de escenarios por niveles."
+}]

@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd67"
+  },
+  "titulo": "The Legend of Zelda: Breath of the Wild",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b537"
+  },
+  "edad_minima": 12,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b54e"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b546"
+    }
+  ],
+  "anio_lanzamiento": 2017,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd68"
+  },
+  "titulo": "The Witcher 3: Wild Hunt",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b539"
+  },
+  "edad_minima": 18,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b54f"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b543"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b547"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b546"
+    }
+  ],
+  "anio_lanzamiento": 2015,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd69"
+  },
+  "titulo": "Grand Theft Auto V",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b538"
+  },
+  "edad_minima": 18,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b550"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b543"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b547"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b548"
+    }
+  ],
+  "anio_lanzamiento": 2013,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd6a"
+  },
+  "titulo": "Elden Ring",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b539"
+  },
+  "edad_minima": 16,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b551"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b543"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b544"
+    }
+  ],
+  "anio_lanzamiento": 2022,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd6b"
+  },
+  "titulo": "Assassin's Creed Valhalla",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b537"
+  },
+  "edad_minima": 18,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b552"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b543"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b544"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b545"
+    }
+  ],
+  "anio_lanzamiento": 2020,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd6c"
+  },
+  "titulo": "Half-Life: Alyx",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b53a"
+  },
+  "edad_minima": 17,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b553"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b543"
+    }
+  ],
+  "anio_lanzamiento": 2020,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd6d"
+  },
+  "titulo": "God of War: Ragnarok",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b538"
+  },
+  "edad_minima": 18,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b554"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b544"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b547"
+    }
+  ],
+  "anio_lanzamiento": 2022,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd6e"
+  },
+  "titulo": "Spider-Man: Miles Morales",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b538"
+  },
+  "edad_minima": 16,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b555"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b544"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b547"
+    }
+  ],
+  "anio_lanzamiento": 2020,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd6f"
+  },
+  "titulo": "The Elder Scrolls V: Skyrim",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b539"
+  },
+  "edad_minima": 18,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b556"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b543"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b546"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b547"
+    }
+  ],
+  "anio_lanzamiento": 2011,
+  "disponible": true
+},
+{
+  "_id": {
+    "$oid": "6835a9faa42b810af3cefd70"
+  },
+  "titulo": "Halo Infinite",
+  "genero_id": {
+    "$oid": "6835a916de7b4b9d5082b53a"
+  },
+  "edad_minima": 16,
+  "desarrollador_id": {
+    "$oid": "6835a92bde7b4b9d5082b557"
+  },
+  "plataformas": [
+    {
+      "$oid": "6835a920de7b4b9d5082b543"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b545"
+    },
+    {
+      "$oid": "6835a920de7b4b9d5082b548"
+    }
+  ],
+  "anio_lanzamiento": 2021,
+  "disponible": true
+}]

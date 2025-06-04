@@ -12,7 +12,7 @@ const path = require("path");
 require("dotenv").config();
 
 // Configuración de la base de datos local
-const MONGODB_URI = "mongodb://localhost:27017/videojuegos";
+const MONGODB_URI = "mongodb://localhost:27017/videojuegosDB";
 const client = new MongoClient(MONGODB_URI);
 
 // Configuración de Express
